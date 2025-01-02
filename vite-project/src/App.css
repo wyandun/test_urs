@@ -1,0 +1,44 @@
+.App {
+  justify-content: space-between;
+  padding: 20px;
+}
+
+
+.right-section {
+  padding-left: 20px;
+  border-left: 2px solid #ccc;
+}
+
+.select-container {
+  display: inline-block;
+  width: 30%;
+  margin-right: 10px;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+h1, h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.selected-info {
+  bottom: 20px; 
+  left: 0;
+  right: 0;
+}
+
+.selected-info p {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+strong {
+  font-weight: bold;
+}
