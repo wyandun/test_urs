@@ -49,7 +49,7 @@ El frontend realiza peticiones **GET** al backend para obtener las listas de pro
    ```bash
    cd provincias-api
    ```
-3. **Instalar dependencias y ejecutar el proyecto:**:
+3. **Instalar dependencias y ejecutar el proyecto**:
    ```bash
    mvn spring-boot:run
    ```
