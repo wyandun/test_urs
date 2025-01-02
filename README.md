@@ -43,13 +43,16 @@ El frontend realiza peticiones **GET** al backend para obtener las listas de pro
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://url-del-repositorio-backend.git
+   git clone https://github.com/wyandun/test_urs.git
+   ```
 2. **Acceder al directorio del backend**:
    ```bash
    cd provincias-api
+   ```
 3. **Instalar dependencias y ejecutar el proyecto:**:
    ```bash
    mvn spring-boot:run
+   ```
 El backend estará disponible en http://localhost:8080.
 
 ### Frontend (React + Vite)
@@ -58,10 +61,13 @@ El backend estará disponible en http://localhost:8080.
    ```bash
    cd ..
    cd vite-project
+   ```
 2. **Instalar dependencias**:
    ```bash
    npm install
+   ```
 3.	**Ejecutar el proyecto**:
    ```bash
    npm run dev
+   ```
 El frontend estará disponible en http://localhost:5173.
